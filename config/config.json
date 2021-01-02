@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "root",
+      "password": "Fo$teR<35",
+      "database": "wine_db",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
